@@ -1,5 +1,5 @@
 {
-    "name": "suprtnova3339/laravel-hashids",
+    "name": "supernova3339/laravel-hashids",
     "description": "A Hashids bridge for Laravel",
     "license": "MIT",
     "keywords": [
@@ -12,7 +12,7 @@
             "email": "hello@doubledip.se"
         },
         {
-            "name": "Supernova3339r",
+            "name": "Supernova3339",
             "email": "supernova@superdev.one"
         }
     ],
