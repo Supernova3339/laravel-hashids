@@ -1,5 +1,5 @@
 {
-    "name": "vinkla/hashids",
+    "name": "suprtnova3339/laravel-hashids",
     "description": "A Hashids bridge for Laravel",
     "license": "MIT",
     "keywords": [
@@ -10,6 +10,10 @@
         {
             "name": "Vincent Klaiber",
             "email": "hello@doubledip.se"
+        },
+        {
+            "name": "Supernova3339r",
+            "email": "supernova@superdev.one"
         }
     ],
     "require": {
